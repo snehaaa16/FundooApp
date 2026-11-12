@@ -1,0 +1,24 @@
+## Ignore Visual Studio & .NET temporary / build files
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+
+## NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+## Logs & Temp files
+*.log
+*.tmp
+*.bak
+TestResults/

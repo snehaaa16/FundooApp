@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Email/">
+    <Project Path="Fundoo.Email.Api/Fundoo.Email.Api.csproj" />
+    <Project Path="Fundoo.Email.Application/Fundoo.Email.Application.csproj" />
+    <Project Path="Fundoo.Email.Domain/Fundoo.Email.Domain.csproj" />
+    <Project Path="Fundoo.Email.Infrastructure/Fundoo.Email.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Notes/">
+    <Project Path="Fundoo.Notes.Api/Fundoo.Notes.Api.csproj" />
+    <Project Path="Fundoo.Notes.Application/Fundoo.Notes.Application.csproj" />
+    <Project Path="Fundoo.Notes.Domain/Fundoo.Notes.Domain.csproj" />
+    <Project Path="Fundoo.Notes.Infrastructure/Fundoo.Notes.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Users/">
+    <Project Path="Fundoo.Users.Api/Fundoo.Users.Api.csproj" />
+    <Project Path="Fundoo.Users.Application/Fundoo.Users.Application.csproj" />
+    <Project Path="Fundoo.Users.Domain/Fundoo.Users.Domain.csproj" />
+    <Project Path="Fundoo.Users.Infrastructure/Fundoo.Users.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Gateway/">
+    <Project Path="Fundoo.Gateway/Fundoo.Gateway.csproj" />
+  </Folder>
+  <Project Path="FundooMicroservice/FundooMicroservice.csproj" />
+</Solution>
